@@ -1,14 +1,12 @@
-<div style='display: flex'>
 
-<div style='margin-right: 30px'>
-<img src="https://avatars.githubusercontent.com/u/74360115?s=130&u=71b727f1a228fccc99a3674d558b00c60ecd2d63&v=4" style='border-radius:50%; margin-right: 20px'>
+<div>
+<div>
+<img src="https://avatars.githubusercontent.com/u/74360115?s=130&u=71b727f1a228fccc99a3674d558b00c60ecd2d63&v=4" style='border-radius:50%; margin-right: 20px; height: 130px; width: 130px'>
 
 ## Titov Alexandr
 #### Front-end Developer
-
-<br>
-
----
+</div>
+  
 <div>
 
 #### Phone: +7 (000) 000-00-00
@@ -16,18 +14,11 @@
 #### Adress: city Astana 
 #### GitHub: @tit-alex 
 </div>
-
----
 </div>
 
 
-
-<div>
-
-<div>
-
 ## Languages and Tools
----
+
 [![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5&logoColor=OrangeRed)](#)
 [![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=css3&logoColor=blue)](#)
 [![SCSS](https://img.shields.io/badge/-SCSS-090909?style=for-the-badge&logo=Sass&logoColor=#CC6699)](#)
@@ -36,26 +27,17 @@
 [![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git&logoColor=#F05032)](#)
 [![Angular](https://img.shields.io/badge/-Angular-090909?style=for-the-badge&logo=Angular&logoColor=crimson)](#)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-090909?style=for-the-badge&logo=Bootstrap&logoColor=#7952B3)](#)
-</div>
 
-<div>
 
 ## EDUCATION
----
 
 ### Software Engineer
 #### Omsk State Technical University 
 #### 2017-2021
-<br>
+
 
 ## EXPERIENCE
----
 
 ### SoftPower
 #### Astana 
 #### 2021
-</div>
-
-</div>
-
-</div>
