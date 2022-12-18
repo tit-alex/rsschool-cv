@@ -1,21 +1,7 @@
-
-<div>
-<div>
 <img src="https://avatars.githubusercontent.com/u/74360115?s=130&u=71b727f1a228fccc99a3674d558b00c60ecd2d63&v=4" style='border-radius:50%; margin-right: 20px; height: 130px; width: 130px'>
 
 ## Titov Alexandr
 #### Front-end Developer
-</div>
-  
-<div>
-
-#### Phone: +7 (000) 000-00-00
-#### Mail: testMail@gmail.com 
-#### Adress: city Astana 
-#### GitHub: @tit-alex 
-</div>
-</div>
-
 
 ## Languages and Tools
 
@@ -41,3 +27,8 @@
 ### SoftPower
 #### Astana 
 #### 2021
+
+#### Phone: +7 (000) 000-00-00
+#### Mail: testMail@gmail.com 
+#### Adress: city Astana 
+#### GitHub: @tit-alex 
