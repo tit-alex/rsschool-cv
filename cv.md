@@ -28,6 +28,8 @@
 #### Astana 
 #### 2021
 
+## CONTACTS
+
 #### Phone: +7 (000) 000-00-00
 #### Mail: testMail@gmail.com 
 #### Adress: city Astana 
